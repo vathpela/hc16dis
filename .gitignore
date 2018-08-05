@@ -1,0 +1,10 @@
+*~
+.*sw?
+*.o
+*.a
+*.so
+*.bin
+vgcore.*
+core.*
+*.py
+hc16dis
